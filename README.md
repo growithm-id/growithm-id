@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/growithm-logo.png" alt="Growithm Logo" width="180"/>
+  <img src="assets/New Full Logo.png" alt="Growithm Logo" width="180"/>
 </p>
-
-<h1 align="center">Growithm</h1>
 
 <h3 align="center">
 Business Automation and Digital Solution
