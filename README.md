@@ -135,11 +135,11 @@ Leverage AI to solve specific business challenges through:
 # 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notyouriiz&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="35%" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=growithm-id&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="35%" width="35%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=notyouriiz&show_icons=true&locale=en" alt="GitHub Stats" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=growithm-id&show_icons=true&locale=en" alt="GitHub Stats" width="46%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notyouriiz" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=growithm-id" alt="GitHub Streak" />
 </div>
 
 <br>
